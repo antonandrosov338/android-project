@@ -1,4 +1,4 @@
-change the variables in build.sh
+change the configuration in build.sh
 
 connect your phone to usb  
 
